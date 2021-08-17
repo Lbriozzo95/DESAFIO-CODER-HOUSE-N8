@@ -22,6 +22,7 @@ const server = app.listen(port, () => {
 
 productos.push(new Producto ("Buzos", 4800, "/foto4.jpg"))
 productos.push(new Producto ("Camperas", 5700, "/foto5.jpg"))
+productos.push(new Producto ("Medias", 450, "/foto6.jpg"))
 
 
 
